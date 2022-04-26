@@ -1,0 +1,15 @@
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\bin\Debug\net6.0\3Majasdrabs.exe
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\bin\Debug\net6.0\3Majasdrabs.deps.json
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\bin\Debug\net6.0\3Majasdrabs.runtimeconfig.json
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\bin\Debug\net6.0\3Majasdrabs.dll
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\bin\Debug\net6.0\3Majasdrabs.pdb
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.csproj.AssemblyReference.cache
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.AssemblyInfoInputs.cache
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.AssemblyInfo.cs
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.csproj.CoreCompileInputs.cache
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.dll
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\refint\3Majasdrabs.dll
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.pdb
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\3Majasdrabs.genruntimeconfig.cache
+C:\Users\Lietotajs\Desktop\C#\repo\3Majasdrabs\3Majasdrabs\obj\Debug\net6.0\ref\3Majasdrabs.dll
